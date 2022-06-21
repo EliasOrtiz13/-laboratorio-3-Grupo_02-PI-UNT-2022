@@ -1,4 +1,4 @@
-Algoritmo EJERCICIO_4
+Algoritmo EJERCICIO_4_Labo
 	Definir promedio, alumno1, alumno2 Como Real
 	Definir nombre1 Como Cadena
 	Definir nombre2 Como Cadena
